@@ -6,7 +6,7 @@ module.exports = [
     config: {
       enabled: true,
       headers: '*',
-      origin: ['http://localhost:1337', 'https://portfolio-cms-new.onrender.com']
+      origin: '*'
     }
   },
   'strapi::poweredBy',
