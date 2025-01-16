@@ -3,48 +3,56 @@
         "PROJECT": "Pong",
         "PROJECT_DESCRIPTION": "<p><b>Sophia Griebel</b> (born 7 June 1990) is a German <a href=\"/wiki/Skeleton_(sport)\" title=\"Skeleton (sport)\">skeleton racer</a> who has raced at the Winter Olympics and the <a href=\"/wiki/Skeleton_World_Cup\" title=\"Skeleton World Cup\">Skeleton World Cup</a>. She started racing skeleton in 2005 and was selected to the German national team in 2008; she was a <a href=\"/wiki/Luge\" title=\"Luge\">luger</a> before switching to skeleton.  Her personal coach is <a href=\"/wiki/Christian_Baude\" title=\"Christian Baude\">Christian Baude</a> and she uses an FES sled. Away from sport, she works for the German <a href=\"/wiki/Federal_Police_(Germany)\" title=\"Federal Police (Germany)\">Federal Police</a>. Griebel was injured in 2016 and spent 18 months recovering before returning to the World Cup circuit in November 2017, but after poor showings in the season's first two races, she was replaced on the German World Cup squad by <a href=\"/wiki/Anna_Fernst%C3%A4dt\" title=\"Anna Fernstädt\">Anna Fernstädt</a>.<sup id=\"cite_ref-ibsf-profile_2-1\" class=\"reference\"><a href=\"#cite_note-ibsf-profile-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-ibsf-media-lp_1-3\" class=\"reference\"><a href=\"#cite_note-ibsf-media-lp-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=1",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "pong"
     },
     {
         "PROJECT": "Paint editor",
         "PROJECT_DESCRIPTION": "<p><b>Jim Craig</b> (1895–1959) was an Australian <a href=\"/wiki/Rugby_league\" title=\"Rugby league\">rugby league</a> footballer and coach. He was a versatile <a href=\"/wiki/Rugby_league_positions#Backs\" title=\"Rugby league positions\">back</a> for the <a href=\"/wiki/Australia_national_rugby_league_team\" title=\"Australia national rugby league team\">Australian national team</a>. He played in seven <a href=\"/wiki/Test_match_(rugby_league)\" title=\"Test match (rugby league)\">tests</a> between 1921 and 1928 as captain on three occasions and has since been named amongst the nation's finest footballers of the 20th century.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup> Craig was a player of unparalleled versatility. It is known that he represented in Tests at fullback, centre, halfback and hooker with some of his club and tour football played at winger, five-eighth and lock forward. Whiticker's reference reports that the great <a href=\"/wiki/Dally_Messenger\" title=\"Dally Messenger\">Dally Messenger</a> regarded Craig as the greatest player Messenger ever saw.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=2",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "paint_editor"
     },
     {
         "PROJECT": "Site SSI",
         "PROJECT_DESCRIPTION": "<p><b>Rugby league football</b>, commonly known as <b>rugby league</b> in English-speaking countries and <b>rugby 13/XIII </b>in non-<a href=\"/wiki/Anglophone\" class=\"mw-redirect\" title=\"Anglophone\">Anglophone</a> Europe, is a <a href=\"/wiki/Contact_sport\" title=\"Contact sport\">full-contact sport</a> played by two teams of thirteen players on a rectangular <a href=\"/wiki/Rugby_league_playing_field\" title=\"Rugby league playing field\">field</a> measuring 68&nbsp;m (74&nbsp;yd) wide and 112–122&nbsp;m (122–133&nbsp;yd) long with H-shaped posts at both ends.<sup id=\"cite_ref-pitch_and_post_dimensions_1-0\" class=\"reference\"><a href=\"#cite_note-pitch_and_post_dimensions-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It is one of the <a href=\"/wiki/Comparison_of_rugby_league_and_rugby_union\" title=\"Comparison of rugby league and rugby union\">two major codes</a> of <a href=\"/wiki/Rugby_football\" title=\"Rugby football\">rugby football</a>, the other being <a href=\"/wiki/Rugby_union\" title=\"Rugby union\">rugby union</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>a<span class=\"cite-bracket\">]</span></a></sup></p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=3",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "site_ssi"
     },
     {
         "PROJECT": "React Space Invaders",
         "PROJECT_DESCRIPTION": "<p><b>Pawłocin</b> <span class=\"IPA\" lang=\"pl-fonipa\" style=\"white-space:nowrap\"><a href=\"/wiki/Help:IPA/Polish\" title=\"Help:IPA/Polish\">[paˈvwɔt͡ɕin]</a></span> (<a href=\"/wiki/German_language\" title=\"German language\">German</a>: <i lang=\"de\">Paulshagen</i>) is a <a href=\"/wiki/Village\" title=\"Village\">village</a> in the administrative district of <a href=\"/wiki/Gmina_Bia%C5%82a_Piska\" title=\"Gmina Biała Piska\">Gmina Biała Piska</a>, within <a href=\"/wiki/Pisz_County\" title=\"Pisz County\">Pisz County</a>, <a href=\"/wiki/Warmian-Masurian_Voivodeship\" class=\"mw-redirect\" title=\"Warmian-Masurian Voivodeship\">Warmian-Masurian Voivodeship</a>, in northern Poland.<sup id=\"cite_ref-TERYT_1-0\" class=\"reference\"><a href=\"#cite_note-TERYT-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It lies approximately 5 kilometres (3&nbsp;mi) east of <a href=\"/wiki/Bia%C5%82a_Piska\" title=\"Biała Piska\">Biała Piska</a>, 23&nbsp;km (14&nbsp;mi) east of <a href=\"/wiki/Pisz\" title=\"Pisz\">Pisz</a>, and 110&nbsp;km (68&nbsp;mi) east of the regional capital <a href=\"/wiki/Olsztyn\" title=\"Olsztyn\">Olsztyn</a>. </p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=4",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "react_space_invaders"
     },
     {
         "PROJECT": "gif to ascii",
         "PROJECT_DESCRIPTION": "<p><b>Sophia Griebel</b> (born 7 June 1990) is a German <a href=\"/wiki/Skeleton_(sport)\" title=\"Skeleton (sport)\">skeleton racer</a> who has raced at the Winter Olympics and the <a href=\"/wiki/Skeleton_World_Cup\" title=\"Skeleton World Cup\">Skeleton World Cup</a>. She started racing skeleton in 2005 and was selected to the German national team in 2008; she was a <a href=\"/wiki/Luge\" title=\"Luge\">luger</a> before switching to skeleton.  Her personal coach is <a href=\"/wiki/Christian_Baude\" title=\"Christian Baude\">Christian Baude</a> and she uses an FES sled. Away from sport, she works for the German <a href=\"/wiki/Federal_Police_(Germany)\" title=\"Federal Police (Germany)\">Federal Police</a>. Griebel was injured in 2016 and spent 18 months recovering before returning to the World Cup circuit in November 2017, but after poor showings in the season's first two races, she was replaced on the German World Cup squad by <a href=\"/wiki/Anna_Fernst%C3%A4dt\" title=\"Anna Fernstädt\">Anna Fernstädt</a>.<sup id=\"cite_ref-ibsf-profile_2-1\" class=\"reference\"><a href=\"#cite_note-ibsf-profile-2\"><span class=\"cite-bracket\">[</span>2<span class=\"cite-bracket\">]</span></a></sup><sup id=\"cite_ref-ibsf-media-lp_1-3\" class=\"reference\"><a href=\"#cite_note-ibsf-media-lp-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=11",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "gif_to_ascii"
     },
     {
         "PROJECT": "explode div",
         "PROJECT_DESCRIPTION": "<p><b>Jim Craig</b> (1895–1959) was an Australian <a href=\"/wiki/Rugby_league\" title=\"Rugby league\">rugby league</a> footballer and coach. He was a versatile <a href=\"/wiki/Rugby_league_positions#Backs\" title=\"Rugby league positions\">back</a> for the <a href=\"/wiki/Australia_national_rugby_league_team\" title=\"Australia national rugby league team\">Australian national team</a>. He played in seven <a href=\"/wiki/Test_match_(rugby_league)\" title=\"Test match (rugby league)\">tests</a> between 1921 and 1928 as captain on three occasions and has since been named amongst the nation's finest footballers of the 20th century.<sup id=\"cite_ref-3\" class=\"reference\"><a href=\"#cite_note-3\"><span class=\"cite-bracket\">[</span>3<span class=\"cite-bracket\">]</span></a></sup> Craig was a player of unparalleled versatility. It is known that he represented in Tests at fullback, centre, halfback and hooker with some of his club and tour football played at winger, five-eighth and lock forward. Whiticker's reference reports that the great <a href=\"/wiki/Dally_Messenger\" title=\"Dally Messenger\">Dally Messenger</a> regarded Craig as the greatest player Messenger ever saw.<sup id=\"cite_ref-4\" class=\"reference\"><a href=\"#cite_note-4\"><span class=\"cite-bracket\">[</span>4<span class=\"cite-bracket\">]</span></a></sup>\n</p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=21",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "explode_div"
     },
     {
         "PROJECT": "Multiplayers Snake",
         "PROJECT_DESCRIPTION": "<p><b>Rugby league football</b>, commonly known as <b>rugby league</b> in English-speaking countries and <b>rugby 13/XIII </b>in non-<a href=\"/wiki/Anglophone\" class=\"mw-redirect\" title=\"Anglophone\">Anglophone</a> Europe, is a <a href=\"/wiki/Contact_sport\" title=\"Contact sport\">full-contact sport</a> played by two teams of thirteen players on a rectangular <a href=\"/wiki/Rugby_league_playing_field\" title=\"Rugby league playing field\">field</a> measuring 68&nbsp;m (74&nbsp;yd) wide and 112–122&nbsp;m (122–133&nbsp;yd) long with H-shaped posts at both ends.<sup id=\"cite_ref-pitch_and_post_dimensions_1-0\" class=\"reference\"><a href=\"#cite_note-pitch_and_post_dimensions-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It is one of the <a href=\"/wiki/Comparison_of_rugby_league_and_rugby_union\" title=\"Comparison of rugby league and rugby union\">two major codes</a> of <a href=\"/wiki/Rugby_football\" title=\"Rugby football\">rugby football</a>, the other being <a href=\"/wiki/Rugby_union\" title=\"Rugby union\">rugby union</a>.<sup id=\"cite_ref-2\" class=\"reference\"><a href=\"#cite_note-2\"><span class=\"cite-bracket\">[</span>a<span class=\"cite-bracket\">]</span></a></sup></p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=31",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "multiplayers_snake"
     },
     {
         "PROJECT": "Snake",
         "PROJECT_DESCRIPTION": "<p><b>Pawłocin</b> <span class=\"IPA\" lang=\"pl-fonipa\" style=\"white-space:nowrap\"><a href=\"/wiki/Help:IPA/Polish\" title=\"Help:IPA/Polish\">[paˈvwɔt͡ɕin]</a></span> (<a href=\"/wiki/German_language\" title=\"German language\">German</a>: <i lang=\"de\">Paulshagen</i>) is a <a href=\"/wiki/Village\" title=\"Village\">village</a> in the administrative district of <a href=\"/wiki/Gmina_Bia%C5%82a_Piska\" title=\"Gmina Biała Piska\">Gmina Biała Piska</a>, within <a href=\"/wiki/Pisz_County\" title=\"Pisz County\">Pisz County</a>, <a href=\"/wiki/Warmian-Masurian_Voivodeship\" class=\"mw-redirect\" title=\"Warmian-Masurian Voivodeship\">Warmian-Masurian Voivodeship</a>, in northern Poland.<sup id=\"cite_ref-TERYT_1-0\" class=\"reference\"><a href=\"#cite_note-TERYT-1\"><span class=\"cite-bracket\">[</span>1<span class=\"cite-bracket\">]</span></a></sup> It lies approximately 5 kilometres (3&nbsp;mi) east of <a href=\"/wiki/Bia%C5%82a_Piska\" title=\"Biała Piska\">Biała Piska</a>, 23&nbsp;km (14&nbsp;mi) east of <a href=\"/wiki/Pisz\" title=\"Pisz\">Pisz</a>, and 110&nbsp;km (68&nbsp;mi) east of the regional capital <a href=\"/wiki/Olsztyn\" title=\"Olsztyn\">Olsztyn</a>. </p>",
         "PROJECT_COVER": "https://picsum.photos/400/300?random=41",
-        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG"
+        "PROJECT_TAGS": "REACT, JAVASCRIPT, GENERIC_TAG",
+        "PROJECT_SLUG": "snake"
     }
 ]
